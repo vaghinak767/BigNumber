@@ -100,8 +100,3 @@ This C++ program implements arbitrary-precision arithmetic operations (addition,
 | GCD/LCM         | Medium   | Number theory applications     |
 
 
-### Enhanced Features
-- **Number Support**:
-  ```diff
-  + Add decimal/fractional support
-  + Add scientific notation parsing
